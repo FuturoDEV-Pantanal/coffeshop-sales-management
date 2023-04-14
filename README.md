@@ -1,2 +1,3 @@
 # coffeshop-sales-management
-Lean and pragmatic manager. (Exercício final semana 1 - Java)
+Refatoração aplicando POO do Lean and pragmatic manager.
+Semana-2.
